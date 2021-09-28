@@ -1,4 +1,3 @@
-# todo_Repo
  Angular todo app
 
 This project is an Angular tutorial for a to do app that is locally served. The app allows users to add, edit, and delete to do items as well as checking off completed items.
